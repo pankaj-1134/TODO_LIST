@@ -1,0 +1,32 @@
+* {
+    font-family: "Kdam Thmor Pro", sans-serif;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #99BC85;
+    color: #E1F0DA;
+}
+
+h1{
+    margin-top: 1rem;
+}
+
+#userinput {
+    margin-top: 2rem;
+    width: 30rem;
+    display: inline-block;
+}
+.btn {
+    margin: 1.2rem 0.5rem;
+}
+
+.form-control {
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
